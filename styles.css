@@ -150,3 +150,31 @@ margin-left: 50px;
     margin-top: 30px;
     padding-top: 30px;
 }
+
+#spidey{
+    
+    font-style: italic;
+    font-size: 300%;
+    color: red;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+
+.spider{
+   display: inline-block;
+    margin-left: 50px;
+    width: 500px;
+}
+    
+#stan-spider{
+        height: 740px;
+}
+
+#bios{
+font-weight: bolder;
+font-style: normal;
+text-align: justify;
+font-size: 150%;
+color: antiquewhite;
+}
