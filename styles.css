@@ -27,3 +27,31 @@ body{
 
 background-image: url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kJTIwYmx1ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 }
+
+.image{
+    margin-left: 115px;
+    margin-right: 155px;
+    margin-top: 35px;
+    width: 1000px;
+}
+div{
+    background-color: rgb(30,30,30);
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px 30px 30px 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h2{
+   text-align: center;
+    font-size: 170%;
+    color: aliceblue;
+    padding-top: 5px;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    
+
+    
+}
+
