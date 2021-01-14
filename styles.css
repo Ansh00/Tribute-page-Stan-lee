@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-size: 500%;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 5px 5px rgb(80,80,80);
+    
+}
+ 
+#Short {
+    text-align: center;
+    font-size: 120%;
+    font-style: italic;
+    margin-top: 10px;
+    color: rgb(13, 14, 13);
+}
+
+body{
+
+background-image: url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kJTIwYmx1ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}
