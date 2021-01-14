@@ -55,3 +55,98 @@ h2{
     
 }
 
+
+#paragraph{
+    padding-bottom: 0px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+    
+    
+}
+#paragraph:hover{
+            box-shadow: 5px 5px rgb(80,80,80);
+           
+            
+}
+
+#spinner{
+    margin-left: 625px;
+    margin-top: 50px;
+    font-size: 500%;
+}
+
+#bio{
+font-weight: bolder;
+font-style: normal;
+text-align: justify;
+font-size: 200%;
+}
+a:link{
+color: blue;
+}
+a:hover{
+    color: blue;
+}
+#achieve{
+    font-size: 300%;
+    color: white;
+    font-weight: bolder;
+    
+    
+    
+}
+
+#biograph{
+    font-size: 300%;
+    font-weight: bolder;
+}
+
+li{
+
+margin-left: 50px;
+font-size: 200%;
+font-weight: 700;
+}
+
+hr{
+display: block;
+border-width: medium;
+border-color: black;
+margin-top: 1px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+
+.fa-quote-left{
+            font-size: 300%;
+            color: rgb(253, 253, 252);
+            
+}
+#quote{
+    font-style: italic;
+    font-size: 200%;
+    margin-left: 200px;
+    color: rgb(43, 40, 206);
+    padding-top: 20px;
+}
+
+.fa-quote-right{
+            font-size: 300%;
+            color: rgb(255, 253, 253);
+}
+
+
+#quotes{
+    padding-top: 30px;
+}
+
+#quote2{
+    margin-top: 30px;
+    padding-top: 30px;
+}
+#quote3{
+    margin-top: 30px;
+    padding-top: 30px;
+}
